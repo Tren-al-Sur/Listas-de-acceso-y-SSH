@@ -8,6 +8,8 @@
 
 Proyecto de configuración avanzada de infraestructura de red empresarial utilizando Cisco Packet Tracer. Implementación de protocolos de enrutamiento, seguridad de acceso remoto y políticas de control de tráfico para garantizar conectividad segura y controlada entre equipos corporativos.
 
+![Topologia del Cisco](Topologia.png)
+
 ## 👥 Equipo de Desarrollo
 
 - **Tomás Bravo**
